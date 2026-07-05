@@ -1,16 +1,20 @@
-## Hi there 👋
+# About me
 
-<!--
-**fiban123/fiban123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## General
+ * [Linux kernel contributor](https://lore.kernel.org/linux-crypto/aknsgpnZsjmLtcT_@gondor.apana.org.au/T/#t)
+ * 16 years old
+ * 1st year SWE Apprentice at Google
 
-Here are some ideas to get you started:
+## Interests
+ * Multiprecision math
+ * Systems programming
+ * Linux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+ * [zmm-build](https://github.com/fiban123/zmm-build): Compiled C build system
+ * XMP: Fast multiprecision library (not public yet)
+
+## Languages
+ * C
+ * x64 Assembly
+ * Not java
